@@ -1,8 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using System.ComponentModel;
-using System.ComponentModel.DataAnnotations;
-
-namespace BulkyBookWeb.Models
+﻿namespace Abby.Models
 {
     public class Category
     {
